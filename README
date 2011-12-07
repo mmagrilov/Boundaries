@@ -1,0 +1,6 @@
+Boundaries is a small Corona SDK project
+showing how to calculate minimum and maximum visible X & Y values
+and actual screen dimensions (especially important in "letterbox" screen mode).
+
+Michael Magrilov, mmagrilov@gmail.com
+12.2011
