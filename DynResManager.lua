@@ -7,10 +7,12 @@ local public = {} 	-- This form of module uses only locals,
 --  
 -- written by Michael Magrilov, mmagrilov@gmail.com
 -- 08.09.2011
---            
+--         
 -- ================================================================================================
+-- Version 2.0
 -- Changes: 
--- "base" forceLoadRes value added as a synonim to "low"
+-- 1) New functions for getting screen boundaries and screen size
+-- 2) "base" forceLoadRes value added as a synonim to "low"
 
 -- ================================================================================================
 
